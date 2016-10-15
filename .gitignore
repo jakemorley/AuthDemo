@@ -1,0 +1,7 @@
+dump/
+dump/bin/
+dump/node_modules/
+dump/public/
+dump/routes/
+dump/uploads/
+dump/views/
